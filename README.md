@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Cory 👋
+Aspiring cybersecurity professional focused on Python, blockchain security, and AI.  
+I’m building hands-on projects, studying industry certifications, and learning every day.
 
-<!--
-**coryahoneycutt/coryahoneycutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Current Focus
+- Learning Python for security and automation
+- Studying core cybersecurity concepts
+- Exploring blockchain security fundamentals
+- Experimenting with AI tools and local AI systems
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools (Growing)
+- Python (beginner)
+- Linux fundamentals
+- Git & GitHub
+- Cybersecurity concepts
+- AI-assisted learning & automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What You’ll Find Here
+- Learning projects and practice code
+- Notes and experiments from my cybersecurity journey
+- Incremental progress as I build real-world skills
+
+## 🚀 Goals
+- Build a strong foundation in cybersecurity and Python
+- Earn cybersecurity and blockchain-related certifications
+- Transition into a security-focused technical role
