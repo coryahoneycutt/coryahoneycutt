@@ -1,0 +1,91 @@
+# Cybersecurity Learning Roadmap
+
+This repository documents my learning journey into cybersecurity, Python, blockchain security, and AI.
+It serves as a roadmap, progress tracker, and reference as I build practical, real-world skills.
+
+---
+
+## 🎯 Goals
+- Build a strong foundation in cybersecurity fundamentals
+- Learn Python for security, automation, and analysis
+- Understand blockchain and smart contract security basics
+- Explore AI tools and local AI systems for security workflows
+- Transition into a cybersecurity-focused technical role
+
+---
+
+## 🧱 Phase 1: Foundations (In Progress)
+### Cybersecurity
+- [x] Networking basics (TCP/IP, DNS, HTTP/S)
+- [x] Linux fundamentals
+- [x] Security principles (CIA triad, threat models)
+- [x] Common attack types (phishing, malware, brute force)
+
+### Python
+- [x] Python syntax & core concepts
+- [x] Writing basic scripts
+- [x] Working with files
+- [x] Automating simple tasks
+
+### Tools
+- [ ] Git & GitHub basics
+- [x] Command line fundamentals
+- [x] Virtual environments
+
+---
+
+## 🛠️ Phase 2: Applied Skills
+### Cybersecurity
+- [x] Vulnerability scanning basics
+- [x] Intro to defensive security
+- [x] Log analysis fundamentals
+- [x] Basic incident response concepts
+
+### Python for Security
+- [x] Automation scripts
+- [x] Parsing logs
+- [x] Simple security tools
+- [ ] API interaction
+
+---
+
+## 🔗 Phase 3: Blockchain Security
+- [ ] Blockchain fundamentals
+- [ ] Smart contract basics
+- [ ] Common blockchain vulnerabilities
+- [ ] Security considerations in crypto platforms
+
+---
+
+## 🤖 Phase 4: AI & Automation
+- [x] AI-assisted coding workflows
+- [ ] Local AI models (offline-first learning)
+- [x] AI for security research and analysis
+- [x] Ethical use of AI in cybersecurity
+
+---
+
+## 📜 Certifications (Completed & Planned)
+
+### Completed
+- [x] Google Cybersecurity Professional Certificate
+
+### Planned / In Progress
+- [ ] CompTIA Security+
+- [ ] CompTIA Network+
+- [ ] CompTIA SecAI+
+- [ ] Certified Blockchain Security Professional (CBSP)
+
+---
+
+## 📈 Progress Tracking
+- This roadmap is a living document
+- Tasks will be checked off as skills are learned
+- Notes and related projects will be linked as they are completed
+
+---
+
+## 🧠 Philosophy
+> Learn consistently, build honestly, and improve one project at a time.
+
+This repository reflects growth, not perfection.
