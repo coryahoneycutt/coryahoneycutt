@@ -3,7 +3,7 @@ Aspiring cybersecurity professional focused on Python, blockchain security, and 
 I’m building hands-on projects, studying industry certifications, and learning every day.
 
 ## 🔐 Current Focus
-- Learning Python for security and automation
+- Python for security and automation
 - Studying core cybersecurity concepts
 - Exploring blockchain security fundamentals
 - Experimenting with AI tools and local AI systems
@@ -11,7 +11,6 @@ I’m building hands-on projects, studying industry certifications, and learning
 ## 🛠️ Skills & Tools (Growing)
 - Python (beginner)
 - Linux fundamentals
-- Git & GitHub
 - Cybersecurity concepts
 - AI-assisted learning & automation
 
